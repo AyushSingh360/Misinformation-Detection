@@ -81,4 +81,4 @@ Please provide as much information as possible:
 
 ## Contact
 
-For security-related questions or concerns, please use GitHub's private vulnerability reporting or contact the project maintainers through appropriate channels.
+For security-related questions or concerns, please use GitHub's private vulnerability reporting or contact @AyushSingh360 through appropriate channels.

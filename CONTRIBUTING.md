@@ -28,7 +28,7 @@ Thank you for your interest in contributing to our fake news detection system! T
 
 1. **Fork and Clone**
    \`\`\`bash
-   git clone https://github.com/yourusername/misinformation-detection.git
+   git clone https://github.com/AyushSingh360/misinformation-detection.git
    cd misinformation-detection
    \`\`\`
 
@@ -310,7 +310,7 @@ Regular contributors may be invited to become maintainers based on:
 - **Code Review**: Learn from pull request feedback
 
 ### Contact
-- **Maintainers**: Tag @maintainers in issues
+- **Maintainers**: Tag @AyushSingh360 in issues
 - **Security Issues**: Use private security reporting
 - **General Questions**: Use GitHub Discussions
 

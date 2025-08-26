@@ -36,7 +36,7 @@ A sophisticated AI-powered system for detecting fake news and misinformation usi
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/misinformation-detection.git
+   git clone https://github.com/AyushSingh360/misinformation-detection.git
    cd misinformation-detection
    \`\`\`
 
@@ -192,10 +192,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Deployed on [Vercel](https://vercel.com) - The platform for frontend developers
 - Inspired by the need for reliable information in the digital age
 
-## 📞 Support
+## 🔧 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/misinformation-detection/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/misinformation-detection/discussions)
+- **Issues**: [GitHub Issues](https://github.com/AyushSingh360/misinformation-detection/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/AyushSingh360/misinformation-detection/discussions)
 - **Documentation**: [API Docs](http://localhost:3000/api/docs)
 
 ## 🔗 Links
