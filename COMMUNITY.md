@@ -215,19 +215,6 @@ Community leaders are responsible for clarifying and enforcing standards of acce
 - **Code of Conduct Violations**: Contact project maintainers
 - **Technical Emergencies**: Tag maintainers in critical issues
 
-## 🎉 Events & Initiatives
-
-### Regular Activities
-- **Monthly Community Calls**: Project updates and discussions
-- **Quarterly Hackathons**: Focused development sprints
-- **Annual Conference**: Community gathering and presentations
-- **Ongoing Challenges**: Gamified contribution opportunities
-
-### Special Initiatives
-- **Student Programs**: University collaboration projects
-- **Research Partnerships**: Academic institution cooperation
-- **Industry Outreach**: Professional development workshops
-- **Global Awareness**: International misinformation conferences
 
 ---
 
