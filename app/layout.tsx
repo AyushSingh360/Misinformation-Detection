@@ -8,7 +8,6 @@ import { ThemeProvider } from "@/components/theme-provider"
 export const metadata: Metadata = {
   title: "TruthGuard AI - Fake News Detection",
   description: "AI-powered fake news detection system with comprehensive analysis",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
