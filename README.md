@@ -1,7 +1,6 @@
 # AI-Powered Fake News Detection System
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ash-a4f55268/v0-no-title)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/sSfI4dnUw3r)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A sophisticated AI-powered system for detecting fake news and misinformation using advanced natural language processing, fact verification, and source reliability analysis.
